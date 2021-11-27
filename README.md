@@ -1,3 +1,5 @@
+[![msbuild](https://github.com/hiroakit/Maya-Net-Wizards/actions/workflows/msbuild.yml/badge.svg)](https://github.com/hiroakit/Maya-Net-Wizards/actions/workflows/msbuild.yml)
+
 Copyright (c) Autodesk, Inc. All rights reserved 
 
 Maya .Net API C# Wizards
